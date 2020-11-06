@@ -1,0 +1,13 @@
+
+ 
+.header{
+    background-color: azure;
+    display:flex;
+    justify-content: space-evenly;
+}
+.grid{
+    background-color: burlywood;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
